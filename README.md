@@ -1,23 +1,37 @@
 <div align="center">
 
-<!-- 3D Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Tamim!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CST%20Student%20%7C%20AI%20Agent%20%26%20Backend%20Developer&descAlignY=58&descSize=18" alt="header banner"/>
+<!-- Animated gradient wave banner with 3D-style shading -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi%20There,%20I'm%20Tamim!&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CST%20Student%20%7C%20AI%20Agent%20%26%20Backend%20Developer&descAlignY=55&descSize=19" alt="header banner"/>
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Tamim!;%F0%9F%8E%93+CST+Student;%F0%9F%A4%96+Learning+AI+Agent+Development;%F0%9F%90%8D+Building+with+Python+%26+Django" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2600&pause=700&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Tamim!;%F0%9F%8E%93+CST+Student;%F0%9F%A4%96+Learning+AI+Agent+Development;%F0%9F%90%8D+Building+with+Python+%26+Django" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tamim057&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/tamim057?label=Followers&style=for-the-badge&color=2575fc" alt="followers"/>
+<!-- Animated wave hand -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tamim057&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/tamim057?label=Followers&style=for-the-badge&color=302b63&logoColor=white" alt="followers"/>
 
 </div>
+
+<br/>
+
+<!-- Animated typing-style divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider animation"/>
 
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm a passionate **CST student** and aspiring software developer from **Bangladesh 🇧🇩**.
 
@@ -30,6 +44,13 @@ Currently, I am focused on learning:
 - 🧠 Artificial Intelligence & Automation
 
 I enjoy learning new technologies, building projects, solving programming problems, and improving my development skills every day.
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,6 +93,26 @@ I enjoy learning new technologies, building projects, solving programming proble
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim057&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 Animated Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tamim057&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+
+</div>
+
+---
+
+## 📈 Animated Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim057&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -141,6 +182,10 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=twinkling"/>
 
 </div>
