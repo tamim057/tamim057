@@ -79,13 +79,22 @@ I enjoy learning new technologies, building projects, solving programming proble
 
 ## 🐍 Contribution Snake (Animated)
 
+> ⚠️ **This image will 404 until you complete one setup step below** — the snake SVG doesn't exist anywhere until GitHub Actions generates it from YOUR contribution graph. Nobody can pre-make this file for you; it's built live from your account. Once you finish the steps, uncomment the line below by removing the `<!--` and `-->`.
+
 <div align="center">
 
+<!--
 <img src="https://raw.githubusercontent.com/tamim057/tamim057/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+-->
 
 </div>
 
-> ℹ️ To activate the snake animation above, add the **GitHub Actions workflow** below to a repo named `tamim057/tamim057` (your profile repo). It auto-generates and updates the snake SVG using your real contribution graph.
+**Setup (takes ~2 minutes):**
+1. Go to github.com/new and create a repo named exactly `tamim057` (must match your username exactly — this makes it your special "profile repo").
+2. Put this README.md file as the `README.md` in that repo, and push it.
+3. Create a file at `.github/workflows/snake.yml` in that same repo with the exact content below.
+4. Go to the repo's **Actions** tab → click **Generate Snake Animation** → **Run workflow**. Wait ~30 seconds.
+5. Refresh your profile page — the snake will now appear. After this, come back and remove the `<!--` `-->` around the `<img>` tag above (or ask me to do it for you).
 
 <details>
 <summary>⚙️ Click to see the snake workflow (<code>.github/workflows/snake.yml</code>)</summary>
