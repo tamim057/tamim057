@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Tamim!
 
-<!--
-**tamim057/tamim057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Technology (CST) Student**
+🤖 Currently Learning **AI Agent Development**
+🐍 Learning **Python**
+🌐 Exploring **Django & Backend Development**
 
-Here are some ideas to get you started:
+> 🚀 Learning, building, and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* 🤖 AI Agent Development
+* 🐍 Python
+* 🌐 Django
+* 🔌 APIs & Backend Development
+* 🧠 Artificial Intelligence & Automation
+
+## 🎯 My Goal
+
+To become a skilled **AI Agent Developer and Backend Developer**, build useful applications, and continuously improve my programming skills.
+
+### 🛠️ Technologies I'm Learning
+
+Python • Django • Git • GitHub • HTML • CSS • JavaScript
+
+---
+
+⭐ **Feel free to explore my repositories and follow my learning journey!**
