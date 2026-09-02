@@ -10,8 +10,8 @@
 
 <br/>
 
-<!-- Animated wave hand -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+<!-- Animated wave hand (verified SVG source) -->
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated wave" width="50" height="50"/>
 
 <br/><br/>
 
